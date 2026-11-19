@@ -1,0 +1,2 @@
+Place real files in this folder to make them appear in the dynamically generated listing.
+This note file is not part of the listing because the program lists files only (README.txt is a file and will appear if left here).
